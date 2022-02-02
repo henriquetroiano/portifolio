@@ -5,6 +5,7 @@
       color="primary"
       dark
     >
+    
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
